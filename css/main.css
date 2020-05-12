@@ -1,0 +1,31 @@
+.site-header{
+    background-color: black;
+    color: blanchedalmond;
+    font-family: monospace;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-content: center;
+}
+
+.site-header-content{
+    margin: 10px;
+}
+
+
+.profile-pic{
+    border-radius: 50%;
+    height: 200px;
+    width: 200px;
+    align-self: center;
+}
+
+.course-link{
+    color: blanchedalmond;
+}
+
+body{
+    margin: 0;
+    background-color: black;
+}
